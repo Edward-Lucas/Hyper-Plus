@@ -2,6 +2,10 @@
 source for the project. Do not download releases from random websites, even if
 their name contains `scrcpy`.**
 
+저는 아직 이러한 것에 대하여 잘 모르고, 미숙합니다.
+그러나 Scrcpy를 통하여 만족할 수 있는 결과물을 만들었어요.
+Genymobile님에게 감사합니다.
+
 # scrcpy (v3.0)
 
 <img src="app/data/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
